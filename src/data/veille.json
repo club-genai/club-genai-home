@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-04-30",
+  "updated_at": "2026-05-01",
   "items": [
+    {
+      "title": "Introducing Advanced Account Security",
+      "url": "https://openai.com/index/advanced-account-security",
+      "source": "OpenAI",
+      "date": "2026-04-30",
+      "excerpt": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+      "type": "article"
+    },
+    {
+      "title": "Enabling a new model for healthcare with AI co-clinician",
+      "url": "https://deepmind.google/blog/ai-co-clinician/",
+      "source": "Google",
+      "date": "2026-04-30",
+      "excerpt": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+      "type": "article"
+    },
+    {
+      "title": "Nemotron Labs: What OpenClaw Agents Mean for Every Organization",
+      "url": "https://blogs.nvidia.com/blog/what-openclaw-agents-mean-for-every-organization/",
+      "source": "Nvidia",
+      "date": "2026-04-30",
+      "excerpt": "By early 2026, the open source project OpenClaw had become a phenomenon. In January, its GitHub star count crossed 100,000 as developer interest surged.",
+      "type": "article"
+    },
+    {
+      "title": "It’s Gonna Be May: 16 Games Hit the Cloud This Month, With More NVIDIA GeForce RTX 5080 Power",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-may-2026-games-list/",
+      "source": "Nvidia",
+      "date": "2026-04-30",
+      "excerpt": "[Editor&#8217;s note] The blog has been updated to note that GeForce RTX 5080-power expansion also extends to the Install-to-Play library. It’s gonna be May — and the cloud’s in full festival mode. 16",
+      "type": "article"
+    },
     {
       "title": "Where the goblins came from",
       "url": "https://openai.com/index/where-the-goblins-came-from",
@@ -58,14 +90,6 @@
       "type": "article"
     },
     {
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "url": "https://openai.com/index/openai-on-aws",
-      "source": "OpenAI",
-      "date": "2026-04-28",
-      "excerpt": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-      "type": "article"
-    },
-    {
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
       "source": "Hugging Face",
@@ -119,30 +143,6 @@
       "source": "Google AI",
       "date": "2026-04-27",
       "excerpt": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
-      "type": "article"
-    },
-    {
-      "title": "8 Gemini tips for organizing your space (and life)",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
-      "source": "Google AI",
-      "date": "2026-04-24",
-      "excerpt": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
-      "type": "article"
-    },
-    {
-      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-      "source": "Google AI",
-      "date": "2026-04-23",
-      "excerpt": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
-      "type": "article"
-    },
-    {
-      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-      "source": "Google AI",
-      "date": "2026-04-23",
-      "excerpt": "Google has been a proud part of Austria’s landscape for years, and today, we’re announcing our first data center in Kronstorf, generating 100 direct jobs. This facility …",
       "type": "article"
     }
   ]

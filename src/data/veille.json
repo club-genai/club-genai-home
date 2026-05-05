@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-05-04",
+  "updated_at": "2026-05-05",
   "items": [
+    {
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "source": "OpenAI",
+      "date": "2026-05-04",
+      "excerpt": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "type": "article"
+    },
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "source": "OpenAI",
+      "date": "2026-05-04",
+      "excerpt": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+      "type": "article"
+    },
+    {
+      "title": "The latest AI news we announced in April 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "source": "Google AI",
+      "date": "2026-05-04",
+      "excerpt": "Here are Google’s latest AI updates from April 2026",
+      "type": "article"
+    },
+    {
+      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "source": "Google AI",
+      "date": "2026-05-04",
+      "excerpt": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
+      "type": "article"
+    },
     {
       "title": "Introducing Advanced Account Security",
       "url": "https://openai.com/index/advanced-account-security",
@@ -50,14 +82,6 @@
       "type": "article"
     },
     {
-      "title": "Cybersecurity in the Intelligence Age",
-      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-      "source": "OpenAI",
-      "date": "2026-04-29",
-      "excerpt": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
-      "type": "article"
-    },
-    {
       "title": "AI evals are becoming the new compute bottleneck",
       "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
       "source": "Hugging Face",
@@ -79,14 +103,6 @@
       "source": "Hugging Face",
       "date": "2026-04-29",
       "excerpt": "",
-      "type": "article"
-    },
-    {
-      "title": "Our commitment to community safety",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "source": "OpenAI",
-      "date": "2026-04-28",
-      "excerpt": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
       "type": "article"
     },
     {
@@ -127,22 +143,6 @@
       "source": "Google",
       "date": "2026-04-27",
       "excerpt": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
-      "type": "article"
-    },
-    {
-      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
-      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
-      "source": "Hugging Face",
-      "date": "2026-04-27",
-      "excerpt": "",
-      "type": "article"
-    },
-    {
-      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-      "source": "Google AI",
-      "date": "2026-04-27",
-      "excerpt": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
       "type": "article"
     }
   ]

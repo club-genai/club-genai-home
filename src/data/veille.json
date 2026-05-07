@@ -1,28 +1,76 @@
 {
-  "updated_at": "2026-05-06",
+  "updated_at": "2026-05-07",
   "items": [
     {
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "url": "https://openai.com/index/gpt-5-5-instant",
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
       "source": "OpenAI",
-      "date": "2026-05-05",
-      "excerpt": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+      "date": "2026-05-06",
+      "excerpt": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity ",
       "type": "article"
     },
     {
-      "title": "GPT-5.5 Instant System Card",
-      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "title": "How frontier enterprises are building an AI advantage",
+      "url": "https://openai.com/index/introducing-b2b-signals",
       "source": "OpenAI",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
+      "excerpt": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "type": "article"
+    },
+    {
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "url": "https://openai.com/index/uber",
+      "source": "OpenAI",
+      "date": "2026-05-06",
+      "excerpt": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+      "type": "article"
+    },
+    {
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "url": "https://openai.com/index/singular-bank",
+      "source": "OpenAI",
+      "date": "2026-05-06",
+      "excerpt": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+      "type": "article"
+    },
+    {
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "source": "Hugging Face",
+      "date": "2026-05-06",
       "excerpt": "",
       "type": "article"
     },
     {
-      "title": "New ways to buy ChatGPT ads",
-      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "source": "Hugging Face",
+      "date": "2026-05-06",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "5 gardening tips you can try right in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+      "source": "Google AI",
+      "date": "2026-05-06",
+      "excerpt": "We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
+      "type": "article"
+    },
+    {
+      "title": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
+      "url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
+      "source": "Nvidia",
+      "date": "2026-05-06",
+      "excerpt": "The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself. NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront",
+      "type": "article"
+    },
+    {
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
       "source": "OpenAI",
       "date": "2026-05-05",
-      "excerpt": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+      "excerpt": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
       "type": "article"
     },
     {
@@ -39,22 +87,6 @@
       "source": "Nvidia",
       "date": "2026-05-05",
       "excerpt": "Enterprise AI has learned to generate. It has learned to reason. Now companies are asking the next question: How should AI act? Early agent systems have shown what’s possible, moving beyond simple pro",
-      "type": "article"
-    },
-    {
-      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
-      "source": "OpenAI",
-      "date": "2026-05-04",
-      "excerpt": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
-      "type": "article"
-    },
-    {
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-      "source": "OpenAI",
-      "date": "2026-05-04",
-      "excerpt": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
       "type": "article"
     },
     {
@@ -111,38 +143,6 @@
       "source": "Hugging Face",
       "date": "2026-04-29",
       "excerpt": "",
-      "type": "article"
-    },
-    {
-      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-      "source": "Hugging Face",
-      "date": "2026-04-28",
-      "excerpt": "",
-      "type": "article"
-    },
-    {
-      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-      "source": "Google AI",
-      "date": "2026-04-28",
-      "excerpt": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
-      "type": "article"
-    },
-    {
-      "title": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
-      "url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
-      "source": "Nvidia",
-      "date": "2026-04-28",
-      "excerpt": "AI agent systems today juggle separate models for vision, speech and language — losing time and context as they pass data from one model to the other. Unveiled today, NVIDIA Nemotron 3 Nano Omni is an",
-      "type": "article"
-    },
-    {
-      "title": "Into the Omniverse: Manufacturing’s Simulation-First Era Has Arrived",
-      "url": "https://blogs.nvidia.com/blog/manufacturing-simulation-first/",
-      "source": "Nvidia",
-      "date": "2026-04-28",
-      "excerpt": "Manufacturing’s traditional design-build-test cycle rested on a single assumption: Real-world testing was the only reliable test environment.",
       "type": "article"
     }
   ]

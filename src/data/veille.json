@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-05-08",
+  "updated_at": "2026-05-09",
   "items": [
+    {
+      "title": "Running Codex safely at OpenAI",
+      "url": "https://openai.com/index/running-codex-safely",
+      "source": "OpenAI",
+      "date": "2026-05-08",
+      "excerpt": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+      "type": "article"
+    },
+    {
+      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+      "source": "Hugging Face",
+      "date": "2026-05-08",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "EMO: Pretraining mixture of experts for emergent modularity",
+      "url": "https://huggingface.co/blog/allenai/emo",
+      "source": "Hugging Face",
+      "date": "2026-05-08",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "See what happens when creative legends use AI to make ads for small businesses.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+      "source": "Google AI",
+      "date": "2026-05-08",
+      "excerpt": "Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…",
+      "type": "article"
+    },
     {
       "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
       "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
@@ -31,14 +63,6 @@
       "source": "OpenAI",
       "date": "2026-05-07",
       "excerpt": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "type": "article"
-    },
-    {
-      "title": "Introducing Trusted Contact in ChatGPT",
-      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-      "source": "OpenAI",
-      "date": "2026-05-07",
-      "excerpt": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
       "type": "article"
     },
     {
@@ -119,30 +143,6 @@
       "source": "Google AI",
       "date": "2026-05-04",
       "excerpt": "Here are Google’s latest AI updates from April 2026",
-      "type": "article"
-    },
-    {
-      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
-      "source": "Google AI",
-      "date": "2026-05-04",
-      "excerpt": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
-      "type": "article"
-    },
-    {
-      "title": "Enabling a new model for healthcare with AI co-clinician",
-      "url": "https://deepmind.google/blog/ai-co-clinician/",
-      "source": "Google",
-      "date": "2026-04-30",
-      "excerpt": "Researching the path to AI-augmented care and development of an AI co-clinician.",
-      "type": "article"
-    },
-    {
-      "title": "Nemotron Labs: What OpenClaw Agents Mean for Every Organization",
-      "url": "https://blogs.nvidia.com/blog/what-openclaw-agents-mean-for-every-organization/",
-      "source": "Nvidia",
-      "date": "2026-04-30",
-      "excerpt": "By early 2026, the open source project OpenClaw had become a phenomenon. In January, its GitHub star count crossed 100,000 as developer interest surged.",
       "type": "article"
     }
   ]

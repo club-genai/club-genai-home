@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-05-09",
+  "updated_at": "2026-05-10",
   "items": [
+    {
+      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "source": "Hugging Face",
+      "date": "2026-05-09",
+      "excerpt": "",
+      "type": "article"
+    },
     {
       "title": "Running Codex safely at OpenAI",
       "url": "https://openai.com/index/running-codex-safely",
       "source": "OpenAI",
       "date": "2026-05-08",
       "excerpt": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-      "type": "article"
-    },
-    {
-      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
-      "source": "Hugging Face",
-      "date": "2026-05-08",
-      "excerpt": "",
       "type": "article"
     },
     {

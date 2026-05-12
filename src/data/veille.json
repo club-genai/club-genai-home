@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-05-11",
+  "updated_at": "2026-05-12",
   "items": [
     {
-      "title": "OpenAI Campus Network: Student club interest form",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "title": "How ChatGPT adoption broadened in early 2026",
+      "url": "https://openai.com/signals/research/2026q1-update",
       "source": "OpenAI",
       "date": "2026-05-11",
-      "excerpt": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+      "excerpt": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
       "type": "article"
     },
     {
@@ -18,19 +18,35 @@
       "type": "article"
     },
     {
+      "title": "OpenAI Campus Network: Student club interest form",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "source": "OpenAI",
+      "date": "2026-05-11",
+      "excerpt": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+      "type": "article"
+    },
+    {
+      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+      "url": "https://openai.com/index/openai-launches-the-deployment-company",
+      "source": "OpenAI",
+      "date": "2026-05-11",
+      "excerpt": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+      "type": "article"
+    },
+    {
+      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+      "source": "Hugging Face",
+      "date": "2026-05-11",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
       "title": "The new AI-powered Google Finance is expanding to Europe.",
       "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
       "source": "Google AI",
       "date": "2026-05-11",
       "excerpt": "This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…",
-      "type": "article"
-    },
-    {
-      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
-      "source": "Hugging Face",
-      "date": "2026-05-10",
-      "excerpt": "",
       "type": "article"
     },
     {
@@ -63,22 +79,6 @@
       "source": "Google AI",
       "date": "2026-05-08",
       "excerpt": "Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…",
-      "type": "article"
-    },
-    {
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-      "source": "OpenAI",
-      "date": "2026-05-07",
-      "excerpt": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-      "type": "article"
-    },
-    {
-      "title": "Parloa builds service agents customers want to talk to",
-      "url": "https://openai.com/index/parloa",
-      "source": "OpenAI",
-      "date": "2026-05-07",
-      "excerpt": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
       "type": "article"
     },
     {

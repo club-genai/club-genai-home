@@ -1,36 +1,52 @@
 {
-  "updated_at": "2026-05-12",
+  "updated_at": "2026-05-13",
   "items": [
+    {
+      "title": "How finance teams use Codex",
+      "url": "https://openai.com/academy/how-finance-teams-use-codex",
+      "source": "OpenAI",
+      "date": "2026-05-12",
+      "excerpt": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "type": "article"
+    },
+    {
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
+      "source": "OpenAI",
+      "date": "2026-05-12",
+      "excerpt": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "type": "article"
+    },
+    {
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "source": "OpenAI",
+      "date": "2026-05-12",
+      "excerpt": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraint",
+      "type": "article"
+    },
+    {
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
+      "source": "OpenAI",
+      "date": "2026-05-12",
+      "excerpt": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "type": "article"
+    },
+    {
+      "title": "NVIDIA and SAP Bring Trust to Specialized Agents",
+      "url": "https://blogs.nvidia.com/blog/sap-specialized-agents/",
+      "source": "Nvidia",
+      "date": "2026-05-12",
+      "excerpt": "Announced today at SAP Sapphire — where NVIDIA founder and CEO Jensen Huang joined SAP CEO Christian Klein’s keynote by video — SAP and NVIDIA’s expanded collaboration helps enterprises run specialize",
+      "type": "article"
+    },
     {
       "title": "How ChatGPT adoption broadened in early 2026",
       "url": "https://openai.com/signals/research/2026q1-update",
       "source": "OpenAI",
       "date": "2026-05-11",
       "excerpt": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
-      "type": "article"
-    },
-    {
-      "title": "How enterprises are scaling AI",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "source": "OpenAI",
-      "date": "2026-05-11",
-      "excerpt": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-      "type": "article"
-    },
-    {
-      "title": "OpenAI Campus Network: Student club interest form",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "source": "OpenAI",
-      "date": "2026-05-11",
-      "excerpt": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-      "type": "article"
-    },
-    {
-      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-      "url": "https://openai.com/index/openai-launches-the-deployment-company",
-      "source": "OpenAI",
-      "date": "2026-05-11",
-      "excerpt": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
       "type": "article"
     },
     {
@@ -55,14 +71,6 @@
       "source": "Nvidia",
       "date": "2026-05-10",
       "excerpt": "“You are entering the world at an extraordinary moment,” NVIDIA founder and CEO Jensen Huang told graduates as he delivered the keynote address at Carnegie Mellon University&#8217;s 128th commencement",
-      "type": "article"
-    },
-    {
-      "title": "Running Codex safely at OpenAI",
-      "url": "https://openai.com/index/running-codex-safely",
-      "source": "OpenAI",
-      "date": "2026-05-08",
-      "excerpt": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
       "type": "article"
     },
     {
@@ -135,14 +143,6 @@
       "source": "Nvidia",
       "date": "2026-05-06",
       "excerpt": "The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself. NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront",
-      "type": "article"
-    },
-    {
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-      "source": "Google AI",
-      "date": "2026-05-05",
-      "excerpt": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "type": "article"
     }
   ]

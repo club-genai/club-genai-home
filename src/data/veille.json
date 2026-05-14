@@ -1,28 +1,44 @@
 {
-  "updated_at": "2026-05-13",
+  "updated_at": "2026-05-14",
   "items": [
+    {
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "source": "OpenAI",
+      "date": "2026-05-13",
+      "excerpt": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "type": "article"
+    },
+    {
+      "title": "Our response to the TanStack npm supply chain attack",
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "source": "OpenAI",
+      "date": "2026-05-13",
+      "excerpt": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenA",
+      "type": "article"
+    },
+    {
+      "title": "NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/",
+      "source": "Nvidia",
+      "date": "2026-05-13",
+      "excerpt": "Reinforcement-learning agents — AI systems that learn by trial and error — can convert computation into new knowledge. That’s the focus of a new engineering-level collaboration between NVIDIA and Inef",
+      "type": "article"
+    },
+    {
+      "title": "Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark",
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/",
+      "source": "Nvidia",
+      "date": "2026-05-13",
+      "excerpt": "Agentic AI is changing the way users get work done. Following the success of OpenClaw, the community is embracing new open source agentic frameworks. The latest is Hermes Agent, which crossed 140,000 ",
+      "type": "article"
+    },
     {
       "title": "How finance teams use Codex",
       "url": "https://openai.com/academy/how-finance-teams-use-codex",
       "source": "OpenAI",
       "date": "2026-05-12",
       "excerpt": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-      "type": "article"
-    },
-    {
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
-      "source": "OpenAI",
-      "date": "2026-05-12",
-      "excerpt": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "type": "article"
-    },
-    {
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "source": "OpenAI",
-      "date": "2026-05-12",
-      "excerpt": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraint",
       "type": "article"
     },
     {
@@ -34,19 +50,19 @@
       "type": "article"
     },
     {
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "source": "OpenAI",
+      "date": "2026-05-12",
+      "excerpt": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraint",
+      "type": "article"
+    },
+    {
       "title": "NVIDIA and SAP Bring Trust to Specialized Agents",
       "url": "https://blogs.nvidia.com/blog/sap-specialized-agents/",
       "source": "Nvidia",
       "date": "2026-05-12",
       "excerpt": "Announced today at SAP Sapphire — where NVIDIA founder and CEO Jensen Huang joined SAP CEO Christian Klein’s keynote by video — SAP and NVIDIA’s expanded collaboration helps enterprises run specialize",
-      "type": "article"
-    },
-    {
-      "title": "How ChatGPT adoption broadened in early 2026",
-      "url": "https://openai.com/signals/research/2026q1-update",
-      "source": "OpenAI",
-      "date": "2026-05-11",
-      "excerpt": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
       "type": "article"
     },
     {
@@ -98,14 +114,6 @@
       "type": "article"
     },
     {
-      "title": "Linked and Loaded: Gaijin Single Sign-On Now Available on GeForce NOW",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gaijin-sso/",
-      "source": "Nvidia",
-      "date": "2026-05-07",
-      "excerpt": "Less typing, more tanking. Faster logins mean more time in the gaming action — and this week provides GeForce NOW members with a smoother path straight into the battlefield. Cloud gaming is all about ",
-      "type": "article"
-    },
-    {
       "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
       "url": "https://deepmind.google/blog/alphaevolve-impact/",
       "source": "Google",
@@ -135,14 +143,6 @@
       "source": "Google AI",
       "date": "2026-05-06",
       "excerpt": "We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
-      "type": "article"
-    },
-    {
-      "title": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
-      "url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
-      "source": "Nvidia",
-      "date": "2026-05-06",
-      "excerpt": "The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself. NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront",
       "type": "article"
     }
   ]

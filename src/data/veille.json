@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-05-20",
+  "updated_at": "2026-05-21",
   "items": [
+    {
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "source": "OpenAI",
+      "date": "2026-05-20",
+      "excerpt": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "type": "article"
+    },
+    {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "source": "OpenAI",
+      "date": "2026-05-20",
+      "excerpt": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "type": "article"
+    },
+    {
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "source": "OpenAI",
+      "date": "2026-05-20",
+      "excerpt": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "type": "article"
+    },
+    {
+      "title": "We’re announcing new community investments in Missouri.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+      "source": "Google AI",
+      "date": "2026-05-20",
+      "excerpt": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "type": "article"
+    },
+    {
+      "title": "100 things we announced at I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "source": "Google AI",
+      "date": "2026-05-20",
+      "excerpt": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
+      "type": "article"
+    },
+    {
+      "title": "A new experiment brings better group meetings to Google Beam",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+      "source": "Google AI",
+      "date": "2026-05-20",
+      "excerpt": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected.",
+      "type": "article"
+    },
     {
       "title": "Introducing OpenAI for Singapore",
       "url": "https://openai.com/index/introducing-openai-for-singapore",
@@ -18,7 +66,7 @@
       "type": "article"
     },
     {
-      "title": "OlmoEarth v1.1: A more efficient family of models",
+      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
       "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
       "source": "Hugging Face",
       "date": "2026-05-19",
@@ -50,43 +98,11 @@
       "type": "article"
     },
     {
-      "title": "New ways to create and get things done in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
-      "source": "Google AI",
-      "date": "2026-05-19",
-      "excerpt": "Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.",
-      "type": "article"
-    },
-    {
-      "title": "I/O 2026: Welcome to the agentic Gemini era",
-      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
-      "source": "Google AI",
-      "date": "2026-05-19",
-      "excerpt": "The latest from Google I/O: See how we’re helping you get more done with Gemini.",
-      "type": "article"
-    },
-    {
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "source": "Google AI",
-      "date": "2026-05-19",
-      "excerpt": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
-      "type": "article"
-    },
-    {
       "title": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
       "url": "https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/",
       "source": "Nvidia",
       "date": "2026-05-19",
       "excerpt": "At this year’s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies’ joint developer community, which provides curated learning pat",
-      "type": "article"
-    },
-    {
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "source": "OpenAI",
-      "date": "2026-05-18",
-      "excerpt": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
       "type": "article"
     },
     {
@@ -127,22 +143,6 @@
       "source": "Nvidia",
       "date": "2026-05-18",
       "excerpt": "Agentic AI inference at one-tenth the cost per token with NVIDIA Vera Rubin NVL72. Agent sandboxes run 50% faster on NVIDIA Vera than traditional CPUs — while enterprise data queries are up to 3x fast",
-      "type": "article"
-    },
-    {
-      "title": "Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs",
-      "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
-      "source": "Nvidia",
-      "date": "2026-05-18",
-      "excerpt": "The first NVIDIA Vera CPUs arrived at three of the world's leading AI labs on Friday — Anthropic in San Francisco, OpenAI in Mission Bay, SpaceXAI in Palo Alto — followed by a delivery to Oracle Cloud",
-      "type": "article"
-    },
-    {
-      "title": "Simulate real-world places with Project Genie and Street View",
-      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
-      "source": "Google",
-      "date": "2026-05-17",
-      "excerpt": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
       "type": "article"
     }
   ]

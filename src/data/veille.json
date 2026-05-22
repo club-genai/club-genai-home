@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-22",
   "items": [
+    {
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "url": "https://openai.com/index/adventhealth",
+      "source": "OpenAI",
+      "date": "2026-05-21",
+      "excerpt": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "type": "article"
+    },
+    {
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "source": "Google",
+      "date": "2026-05-21",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI",
+      "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
+      "source": "Nvidia",
+      "date": "2026-05-21",
+      "excerpt": "At NVIDIA GTC Taipei at COMPUTEX, the world’s developers, researchers and industry leaders are converging to dive into the latest breakthroughs shaping every industry, covering topics spanning AI fact",
+      "type": "article"
+    },
+    {
+      "title": "License to Stream: ‘007 First Light’ Coming to GeForce NOW With an Ultimate Bundle",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-ultimate-bundle/",
+      "source": "Nvidia",
+      "date": "2026-05-21",
+      "excerpt": "The mission begins now. GeForce NOW is dialing up the action with a blockbuster mix of spy thrills, high-speed racing and member rewards — plus eight new games joining the cloud this week, all ready t",
+      "type": "article"
+    },
+    {
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "source": "OpenAI",
+      "date": "2026-05-20",
+      "excerpt": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "type": "article"
+    },
     {
       "title": "The next phase of OpenAI’s Education for Countries",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
@@ -15,14 +55,6 @@
       "source": "OpenAI",
       "date": "2026-05-20",
       "excerpt": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "type": "article"
-    },
-    {
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
-      "source": "OpenAI",
-      "date": "2026-05-20",
-      "excerpt": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
       "type": "article"
     },
     {
@@ -55,14 +87,6 @@
       "source": "OpenAI",
       "date": "2026-05-19",
       "excerpt": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-      "type": "article"
-    },
-    {
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "url": "https://openai.com/index/advancing-content-provenance",
-      "source": "OpenAI",
-      "date": "2026-05-19",
-      "excerpt": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
       "type": "article"
     },
     {
@@ -119,30 +143,6 @@
       "source": "Hugging Face",
       "date": "2026-05-18",
       "excerpt": "",
-      "type": "article"
-    },
-    {
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "source": "Hugging Face",
-      "date": "2026-05-18",
-      "excerpt": "",
-      "type": "article"
-    },
-    {
-      "title": "The Open Agent Leaderboard",
-      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-      "source": "Hugging Face",
-      "date": "2026-05-18",
-      "excerpt": "",
-      "type": "article"
-    },
-    {
-      "title": "NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’",
-      "url": "https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/",
-      "source": "Nvidia",
-      "date": "2026-05-18",
-      "excerpt": "Agentic AI inference at one-tenth the cost per token with NVIDIA Vera Rubin NVL72. Agent sandboxes run 50% faster on NVIDIA Vera than traditional CPUs — while enterprise data queries are up to 3x fast",
       "type": "article"
     }
   ]

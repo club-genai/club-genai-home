@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-05-22",
+  "updated_at": "2026-05-23",
   "items": [
+    {
+      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "source": "Hugging Face",
+      "date": "2026-05-23",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "source": "OpenAI",
+      "date": "2026-05-22",
+      "excerpt": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "type": "article"
+    },
+    {
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "source": "OpenAI",
+      "date": "2026-05-22",
+      "excerpt": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "type": "article"
+    },
+    {
+      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+      "source": "Hugging Face",
+      "date": "2026-05-22",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "source": "Google AI",
+      "date": "2026-05-22",
+      "excerpt": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
+      "type": "article"
+    },
     {
       "title": "AdventHealth advances whole-person care with OpenAI",
       "url": "https://openai.com/index/adventhealth",
@@ -34,11 +74,11 @@
       "type": "article"
     },
     {
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "source": "OpenAI",
       "date": "2026-05-20",
-      "excerpt": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "excerpt": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
       "type": "article"
     },
     {
@@ -47,14 +87,6 @@
       "source": "OpenAI",
       "date": "2026-05-20",
       "excerpt": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "type": "article"
-    },
-    {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "source": "OpenAI",
-      "date": "2026-05-20",
-      "excerpt": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
       "type": "article"
     },
     {
@@ -82,14 +114,6 @@
       "type": "article"
     },
     {
-      "title": "Introducing OpenAI for Singapore",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "source": "OpenAI",
-      "date": "2026-05-19",
-      "excerpt": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-      "type": "article"
-    },
-    {
       "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
       "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
       "source": "Hugging Face",
@@ -114,35 +138,11 @@
       "type": "article"
     },
     {
-      "title": "How AI Mode is changing the way people search in the U.S.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-      "source": "Google AI",
-      "date": "2026-05-19",
-      "excerpt": "One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.",
-      "type": "article"
-    },
-    {
       "title": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
       "url": "https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/",
       "source": "Nvidia",
       "date": "2026-05-19",
       "excerpt": "At this year’s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies’ joint developer community, which provides curated learning pat",
-      "type": "article"
-    },
-    {
-      "title": "Fast-tracking genetic leads to reverse cellular aging",
-      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
-      "source": "Google",
-      "date": "2026-05-18",
-      "excerpt": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
-      "type": "article"
-    },
-    {
-      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-      "source": "Hugging Face",
-      "date": "2026-05-18",
-      "excerpt": "",
       "type": "article"
     }
   ]

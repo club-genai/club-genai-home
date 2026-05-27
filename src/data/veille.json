@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-05-26",
+  "updated_at": "2026-05-27",
   "items": [
+    {
+      "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
+      "source": "Nvidia",
+      "date": "2026-05-26",
+      "excerpt": "The shift to agentic AI creates a new CPU requirement for the AI factory: fast cores, massive memory bandwidth and the ability to sustain high performance when all cores are active. Initial benchmark ",
+      "type": "article"
+    },
     {
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
       "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
@@ -90,11 +98,11 @@
       "type": "article"
     },
     {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
       "source": "OpenAI",
       "date": "2026-05-20",
-      "excerpt": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "excerpt": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
       "type": "article"
     },
     {
@@ -110,7 +118,7 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
       "source": "Google AI",
       "date": "2026-05-20",
-      "excerpt": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
+      "excerpt": "We've been busy! Here’s a rundown of the top announcements, launches and demos at I/O 2026.",
       "type": "article"
     },
     {
@@ -135,14 +143,6 @@
       "source": "Hugging Face",
       "date": "2026-05-19",
       "excerpt": "",
-      "type": "article"
-    },
-    {
-      "title": "I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-      "source": "Google AI",
-      "date": "2026-05-19",
-      "excerpt": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
       "type": "article"
     }
   ]

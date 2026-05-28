@@ -1,6 +1,70 @@
 {
-  "updated_at": "2026-05-27",
+  "updated_at": "2026-05-28",
   "items": [
+    {
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "url": "https://openai.com/index/cisco",
+      "source": "OpenAI",
+      "date": "2026-05-27",
+      "excerpt": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "type": "article"
+    },
+    {
+      "title": "Building self-improving tax agents with Codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "source": "OpenAI",
+      "date": "2026-05-27",
+      "excerpt": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "type": "article"
+    },
+    {
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "source": "OpenAI",
+      "date": "2026-05-27",
+      "excerpt": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "type": "article"
+    },
+    {
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "source": "OpenAI",
+      "date": "2026-05-27",
+      "excerpt": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "type": "article"
+    },
+    {
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "source": "Hugging Face",
+      "date": "2026-05-27",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "Reachy Mini goes fully local",
+      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+      "source": "Hugging Face",
+      "date": "2026-05-27",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+      "url": "https://huggingface.co/blog/delta-weight-sync",
+      "source": "Hugging Face",
+      "date": "2026-05-27",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "AI Factories: The New Infrastructure of Intelligence",
+      "url": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/",
+      "source": "Nvidia",
+      "date": "2026-05-27",
+      "excerpt": "AI factories are token factories, converting power into intelligence in real time. And as agentic AI scales and autonomous, always-on special agents are deployed in the enterprise, performance per wat",
+      "type": "article"
+    },
     {
       "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
       "url": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
@@ -34,43 +98,11 @@
       "type": "article"
     },
     {
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "source": "OpenAI",
-      "date": "2026-05-22",
-      "excerpt": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "type": "article"
-    },
-    {
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "source": "OpenAI",
-      "date": "2026-05-22",
-      "excerpt": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-      "type": "article"
-    },
-    {
-      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-      "source": "Hugging Face",
-      "date": "2026-05-22",
-      "excerpt": "",
-      "type": "article"
-    },
-    {
       "title": "Catch up on the Dialogues stage at Google I/O 2026.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
       "source": "Google AI",
       "date": "2026-05-22",
       "excerpt": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
-      "type": "article"
-    },
-    {
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "url": "https://openai.com/index/adventhealth",
-      "source": "OpenAI",
-      "date": "2026-05-21",
-      "excerpt": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
       "type": "article"
     },
     {
@@ -98,14 +130,6 @@
       "type": "article"
     },
     {
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
-      "source": "OpenAI",
-      "date": "2026-05-20",
-      "excerpt": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "type": "article"
-    },
-    {
       "title": "We’re announcing new community investments in Missouri.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
       "source": "Google AI",
@@ -119,30 +143,6 @@
       "source": "Google AI",
       "date": "2026-05-20",
       "excerpt": "We've been busy! Here’s a rundown of the top announcements, launches and demos at I/O 2026.",
-      "type": "article"
-    },
-    {
-      "title": "A new experiment brings better group meetings to Google Beam",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
-      "source": "Google AI",
-      "date": "2026-05-20",
-      "excerpt": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected.",
-      "type": "article"
-    },
-    {
-      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-      "source": "Hugging Face",
-      "date": "2026-05-19",
-      "excerpt": "",
-      "type": "article"
-    },
-    {
-      "title": "Introducing the Ettin Reranker Family",
-      "url": "https://huggingface.co/blog/ettin-reranker",
-      "source": "Hugging Face",
-      "date": "2026-05-19",
-      "excerpt": "",
       "type": "article"
     }
   ]

@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-05-28",
+  "updated_at": "2026-05-29",
   "items": [
+    {
+      "title": "How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
+      "source": "OpenAI",
+      "date": "2026-05-28",
+      "excerpt": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "type": "article"
+    },
+    {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "source": "OpenAI",
+      "date": "2026-05-28",
+      "excerpt": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "type": "article"
+    },
+    {
+      "title": "OpenAI’s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "source": "OpenAI",
+      "date": "2026-05-28",
+      "excerpt": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "type": "article"
+    },
+    {
+      "title": "Catch up on 12 major I/O 2026 moments",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "source": "Google AI",
+      "date": "2026-05-28",
+      "excerpt": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
+      "type": "article"
+    },
+    {
+      "title": "NVIDIA Research Advances Robotics From Simulation to the Real World",
+      "url": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
+      "source": "Nvidia",
+      "date": "2026-05-28",
+      "excerpt": "Robotics is entering a new phase: moving from controlled demos and scripted automation toward generalizable, reliable embodied autonomy in the real world. At the International Conference on Robotics a",
+      "type": "article"
+    },
+    {
+      "title": "The Name’s Gaming … Cloud Gaming: ‘007 First Light’ Launches on GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-launch/",
+      "source": "Nvidia",
+      "date": "2026-05-28",
+      "excerpt": "License to stream, shaken and stirred. GeForce NOW is dialing up the espionage with the launch of 007 First Light, letting members slip into James Bond’s reimagined origin story from almost any device",
+      "type": "article"
+    },
     {
       "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
       "url": "https://openai.com/index/cisco",
@@ -15,22 +63,6 @@
       "source": "OpenAI",
       "date": "2026-05-27",
       "excerpt": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-      "type": "article"
-    },
-    {
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "source": "OpenAI",
-      "date": "2026-05-27",
-      "excerpt": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "type": "article"
-    },
-    {
-      "title": "Election information and safeguards in 2026",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "source": "OpenAI",
-      "date": "2026-05-27",
-      "excerpt": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
       "type": "article"
     },
     {
@@ -74,14 +106,6 @@
       "type": "article"
     },
     {
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "source": "OpenAI",
-      "date": "2026-05-25",
-      "excerpt": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
-      "type": "article"
-    },
-    {
       "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
       "url": "https://huggingface.co/blog/agent-glossary",
       "source": "Hugging Face",
@@ -119,30 +143,6 @@
       "source": "Nvidia",
       "date": "2026-05-21",
       "excerpt": "At NVIDIA GTC Taipei at COMPUTEX, the world’s developers, researchers and industry leaders are converging to dive into the latest breakthroughs shaping every industry, covering topics spanning AI fact",
-      "type": "article"
-    },
-    {
-      "title": "License to Stream: ‘007 First Light’ Coming to GeForce NOW With an Ultimate Bundle",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-ultimate-bundle/",
-      "source": "Nvidia",
-      "date": "2026-05-21",
-      "excerpt": "The mission begins now. GeForce NOW is dialing up the action with a blockbuster mix of spy thrills, high-speed racing and member rewards — plus eight new games joining the cloud this week, all ready t",
-      "type": "article"
-    },
-    {
-      "title": "We’re announcing new community investments in Missouri.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-      "source": "Google AI",
-      "date": "2026-05-20",
-      "excerpt": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-      "type": "article"
-    },
-    {
-      "title": "100 things we announced at I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-      "source": "Google AI",
-      "date": "2026-05-20",
-      "excerpt": "We've been busy! Here’s a rundown of the top announcements, launches and demos at I/O 2026.",
       "type": "article"
     }
   ]

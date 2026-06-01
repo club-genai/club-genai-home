@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-05-31",
+  "updated_at": "2026-06-01",
   "items": [
+    {
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "source": "Hugging Face",
+      "date": "2026-06-01",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
+      "url": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
+      "source": "Nvidia",
+      "date": "2026-06-01",
+      "excerpt": "The NVIDIA AI Cloud ecosystem is accelerating the global buildout of AI factory infrastructure. Partners are expanding capacity to meet growing demand from enterprises, startups, nations, AI labs and ",
+      "type": "article"
+    },
+    {
+      "title": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain",
+      "url": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/",
+      "source": "Nvidia",
+      "date": "2026-06-01",
+      "excerpt": "As factories move from isolated automation to plant-wide intelligence, manufacturers need AI systems that can connect live machine signals, quality systems, work instructions and operational alerts in",
+      "type": "article"
+    },
+    {
+      "title": "Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/",
+      "source": "Nvidia",
+      "date": "2026-06-01",
+      "excerpt": "Taiwan is home to more than 500 NVIDIA ecosystem partners. More than 1 million NVIDIA MGX rack components for NVIDIA Vera Rubin infrastructure come together in Taiwan, from across 25 factory sites. As",
+      "type": "article"
+    },
+    {
+      "title": "How Cosmos 3 Helps Physical AI Think Before It Acts",
+      "url": "https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/",
+      "source": "Nvidia",
+      "date": "2026-06-01",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark",
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents/",
+      "source": "Nvidia",
+      "date": "2026-06-01",
+      "excerpt": "Personal agents are exploding in popularity, with open source projects like OpenClaw and Hermes seeing rapid adoption by AI developer communities on GitHub. Built to adapt to individual preferences an",
+      "type": "article"
+    },
     {
       "title": "Boston Children’s uses AI to unlock new diagnoses",
       "url": "https://openai.com/index/boston-childrens-hospital",
@@ -82,22 +130,6 @@
       "type": "article"
     },
     {
-      "title": "NVIDIA Research Advances Robotics From Simulation to the Real World",
-      "url": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
-      "source": "Nvidia",
-      "date": "2026-05-28",
-      "excerpt": "Robotics is entering a new phase: moving from controlled demos and scripted automation toward generalizable, reliable embodied autonomy in the real world. At the International Conference on Robotics a",
-      "type": "article"
-    },
-    {
-      "title": "The Name’s Gaming … Cloud Gaming: ‘007 First Light’ Launches on GeForce NOW",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-launch/",
-      "source": "Nvidia",
-      "date": "2026-05-28",
-      "excerpt": "License to stream, shaken and stirred. GeForce NOW is dialing up the espionage with the launch of 007 First Light, letting members slip into James Bond’s reimagined origin story from almost any device",
-      "type": "article"
-    },
-    {
       "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
       "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
       "source": "Hugging Face",
@@ -110,38 +142,6 @@
       "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
       "source": "Hugging Face",
       "date": "2026-05-27",
-      "excerpt": "",
-      "type": "article"
-    },
-    {
-      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-      "url": "https://huggingface.co/blog/delta-weight-sync",
-      "source": "Hugging Face",
-      "date": "2026-05-27",
-      "excerpt": "",
-      "type": "article"
-    },
-    {
-      "title": "AI Factories: The New Infrastructure of Intelligence",
-      "url": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/",
-      "source": "Nvidia",
-      "date": "2026-05-27",
-      "excerpt": "AI factories are token factories, converting power into intelligence in real time. And as agentic AI scales and autonomous, always-on special agents are deployed in the enterprise, performance per wat",
-      "type": "article"
-    },
-    {
-      "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
-      "url": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
-      "source": "Nvidia",
-      "date": "2026-05-26",
-      "excerpt": "The shift to agentic AI creates a new CPU requirement for the AI factory: fast cores, massive memory bandwidth and the ability to sustain high performance when all cores are active. Initial benchmark ",
-      "type": "article"
-    },
-    {
-      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-      "url": "https://huggingface.co/blog/agent-glossary",
-      "source": "Hugging Face",
-      "date": "2026-05-25",
       "excerpt": "",
       "type": "article"
     }

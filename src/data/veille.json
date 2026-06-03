@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-06-02",
+  "updated_at": "2026-06-03",
   "items": [
+    {
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "source": "OpenAI",
+      "date": "2026-06-02",
+      "excerpt": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "type": "article"
+    },
+    {
+      "title": "Codex for every role, tool, and workflow",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "source": "OpenAI",
+      "date": "2026-06-02",
+      "excerpt": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "type": "article"
+    },
+    {
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "source": "OpenAI",
+      "date": "2026-06-02",
+      "excerpt": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "type": "article"
+    },
     {
       "title": "Codex is becoming a productivity tool for everyone",
       "url": "https://openai.com/index/codex-for-knowledge-work",
       "source": "OpenAI",
       "date": "2026-06-02",
       "excerpt": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "type": "article"
+    },
+    {
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "source": "Hugging Face",
+      "date": "2026-06-02",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
+      "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
+      "source": "Nvidia",
+      "date": "2026-06-02",
+      "excerpt": "Accelerated computing has revolutionized industrial engineering, compressing simulation times from weeks to hours. Today’s remaining challenges sit in the end-to-end workflow surrounding the simulatio",
+      "type": "article"
+    },
+    {
+      "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+      "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+      "source": "Nvidia",
+      "date": "2026-06-02",
+      "excerpt": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running",
       "type": "article"
     },
     {
@@ -34,22 +82,6 @@
       "type": "article"
     },
     {
-      "title": "Building the infrastructure for the Intelligence Age in Michigan",
-      "url": "https://openai.com/index/stargate-michigan-data-center",
-      "source": "OpenAI",
-      "date": "2026-06-01",
-      "excerpt": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-      "type": "article"
-    },
-    {
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "source": "OpenAI",
-      "date": "2026-06-01",
-      "excerpt": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already u",
-      "type": "article"
-    },
-    {
       "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
       "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
       "source": "Hugging Face",
@@ -74,35 +106,19 @@
       "type": "article"
     },
     {
+      "title": "How we used Gemini to build Google I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "source": "Google AI",
+      "date": "2026-06-01",
+      "excerpt": "Learn how Googlers used AI to produce Google I/O 2026.",
+      "type": "article"
+    },
+    {
       "title": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
       "url": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
       "source": "Nvidia",
       "date": "2026-06-01",
       "excerpt": "The NVIDIA AI Cloud ecosystem is accelerating the global buildout of AI factory infrastructure. Partners are expanding capacity to meet growing demand from enterprises, startups, nations, AI labs and ",
-      "type": "article"
-    },
-    {
-      "title": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain",
-      "url": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/",
-      "source": "Nvidia",
-      "date": "2026-06-01",
-      "excerpt": "As factories move from isolated automation to plant-wide intelligence, manufacturers need AI systems that can connect live machine signals, quality systems, work instructions and operational alerts in",
-      "type": "article"
-    },
-    {
-      "title": "Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA",
-      "url": "https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/",
-      "source": "Nvidia",
-      "date": "2026-06-01",
-      "excerpt": "Taiwan is home to more than 500 NVIDIA ecosystem partners. More than 1 million NVIDIA MGX rack components for NVIDIA Vera Rubin infrastructure come together in Taiwan, from across 25 factory sites. As",
-      "type": "article"
-    },
-    {
-      "title": "Boston Children’s uses AI to unlock new diagnoses",
-      "url": "https://openai.com/index/boston-childrens-hospital",
-      "source": "OpenAI",
-      "date": "2026-05-29",
-      "excerpt": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
       "type": "article"
     },
     {
@@ -114,35 +130,19 @@
       "type": "article"
     },
     {
-      "title": "Reachy Mini goes fully local",
-      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
-      "source": "Hugging Face",
-      "date": "2026-05-27",
-      "excerpt": "",
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "source": "Google AI",
+      "date": "2026-05-29",
+      "excerpt": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
       "type": "article"
     },
     {
-      "title": "How generational differences affect consumer attitudes towards ads",
-      "url": "https://research.facebook.com/blog/2023/5/how-generational-differences-affect-consumer-attitudes-towards-ads/",
-      "source": "Meta AI",
-      "date": "2023-05-17",
-      "excerpt": "Our research study, in collaboration with CrowdDNA, aims to understand people's relationship with social media ads across different social media platforms.",
-      "type": "article"
-    },
-    {
-      "title": "Every tree counts",
-      "url": "https://research.facebook.com/blog/2023/4/every-tree-counts-large-scale-mapping-of-canopy-height-at-the-resolution-of-individual-trees/",
-      "source": "Meta AI",
-      "date": "2023-04-17",
-      "excerpt": "Meta set a goal to reach net zero emissions by 2030. We are developing technology to mitigate our carbon footprint and making these openly available.",
-      "type": "article"
-    },
-    {
-      "title": "How a non-traditional background led to cutting-edge XR tech",
-      "url": "https://www.metacareers.com/life/how-a-non-traditional-background-led-to-cutting-edge-xr-tech",
-      "source": "Meta AI",
-      "date": "2023-04-14",
-      "excerpt": "",
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "source": "Google AI",
+      "date": "2026-05-29",
+      "excerpt": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
       "type": "article"
     }
   ]

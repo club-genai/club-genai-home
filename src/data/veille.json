@@ -1,36 +1,84 @@
 {
-  "updated_at": "2026-06-03",
+  "updated_at": "2026-06-04",
   "items": [
     {
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "url": "https://openai.com/index/travelers",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
       "source": "OpenAI",
-      "date": "2026-06-02",
-      "excerpt": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "date": "2026-06-04",
+      "excerpt": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
       "type": "article"
     },
     {
-      "title": "Codex for every role, tool, and workflow",
-      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
       "source": "OpenAI",
-      "date": "2026-06-02",
-      "excerpt": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "date": "2026-06-03",
+      "excerpt": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
       "type": "article"
     },
     {
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "url": "https://openai.com/index/wasmer",
       "source": "OpenAI",
-      "date": "2026-06-02",
-      "excerpt": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "date": "2026-06-03",
+      "excerpt": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
       "type": "article"
     },
     {
-      "title": "Codex is becoming a productivity tool for everyone",
-      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
       "source": "OpenAI",
-      "date": "2026-06-02",
-      "excerpt": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "date": "2026-06-03",
+      "excerpt": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "type": "article"
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "source": "OpenAI",
+      "date": "2026-06-03",
+      "excerpt": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "type": "article"
+    },
+    {
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "source": "Hugging Face",
+      "date": "2026-06-03",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "Adding MCP Tools to Reachy Mini",
+      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "source": "Hugging Face",
+      "date": "2026-06-03",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "source": "Google AI",
+      "date": "2026-06-03",
+      "excerpt": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
+      "type": "article"
+    },
+    {
+      "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
+      "url": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
+      "source": "Nvidia",
+      "date": "2026-06-03",
+      "excerpt": "What makes a robot gripper useful isn’t that it can pick up one object — it’s that it can pick up the next one, and the one after that, with a tool it’s never held before. What makes an autonomous veh",
+      "type": "article"
+    },
+    {
+      "title": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
+      "url": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/",
+      "source": "Nvidia",
+      "date": "2026-06-03",
+      "excerpt": "At CVPR, NVIDIA is unveiling new physical AI agent skills that help researchers and developers speed the development of autonomous vehicles, robots and vision AI systems. The core challenge in physica",
       "type": "article"
     },
     {
@@ -66,22 +114,6 @@
       "type": "article"
     },
     {
-      "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
-      "url": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
-      "source": "Nvidia",
-      "date": "2026-06-02",
-      "excerpt": "Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on NVIDIA Jetson. JetPack 7.2 brings agentic AI skills, Yocto project support, N",
-      "type": "article"
-    },
-    {
-      "title": "Our views on AI policy and political advocacy",
-      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "source": "OpenAI",
-      "date": "2026-06-01",
-      "excerpt": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
-      "type": "article"
-    },
-    {
       "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
       "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
       "source": "Hugging Face",
@@ -98,14 +130,6 @@
       "type": "article"
     },
     {
-      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-      "source": "Hugging Face",
-      "date": "2026-06-01",
-      "excerpt": "",
-      "type": "article"
-    },
-    {
       "title": "How we used Gemini to build Google I/O 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
       "source": "Google AI",
@@ -114,35 +138,11 @@
       "type": "article"
     },
     {
-      "title": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
-      "url": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
-      "source": "Nvidia",
-      "date": "2026-06-01",
-      "excerpt": "The NVIDIA AI Cloud ecosystem is accelerating the global buildout of AI factory infrastructure. Partners are expanding capacity to meet growing demand from enterprises, startups, nations, AI labs and ",
-      "type": "article"
-    },
-    {
-      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-      "url": "https://huggingface.co/blog/torch-profiler",
-      "source": "Hugging Face",
-      "date": "2026-05-29",
-      "excerpt": "",
-      "type": "article"
-    },
-    {
       "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
       "source": "Google AI",
       "date": "2026-05-29",
       "excerpt": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
-      "type": "article"
-    },
-    {
-      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "source": "Google AI",
-      "date": "2026-05-29",
-      "excerpt": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
       "type": "article"
     }
   ]

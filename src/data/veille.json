@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-06-05",
+  "updated_at": "2026-06-06",
   "items": [
+    {
+      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "source": "Hugging Face",
+      "date": "2026-06-05",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "The latest AI news we announced in May 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "source": "Google AI",
+      "date": "2026-06-05",
+      "excerpt": "Here are Google’s latest AI updates from May 2026",
+      "type": "article"
+    },
     {
       "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
       "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
@@ -90,14 +106,6 @@
       "type": "article"
     },
     {
-      "title": "Adding MCP Tools to Reachy Mini",
-      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-      "source": "Hugging Face",
-      "date": "2026-06-03",
-      "excerpt": "",
-      "type": "article"
-    },
-    {
       "title": "5 ways Google Search can level up your thrift and vintage shopping",
       "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
       "source": "Google AI",
@@ -135,14 +143,6 @@
       "source": "Google AI",
       "date": "2026-06-01",
       "excerpt": "Learn how Googlers used AI to produce Google I/O 2026.",
-      "type": "article"
-    },
-    {
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "source": "Google AI",
-      "date": "2026-05-29",
-      "excerpt": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
       "type": "article"
     }
   ]

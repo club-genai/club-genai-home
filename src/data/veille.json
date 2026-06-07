@@ -1,11 +1,19 @@
 {
-  "updated_at": "2026-06-06",
+  "updated_at": "2026-06-07",
   "items": [
     {
-      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
+      "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
+      "source": "Nvidia",
+      "date": "2026-06-07",
+      "excerpt": "At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the heels of this announcement, NVIDIA founder and CEO Je",
+      "type": "article"
+    },
+    {
+      "title": "Five labs, five minds: building a multi-model finance drama on small models",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
       "source": "Hugging Face",
-      "date": "2026-06-05",
+      "date": "2026-06-06",
       "excerpt": "",
       "type": "article"
     },
@@ -127,14 +135,6 @@
       "source": "Nvidia",
       "date": "2026-06-03",
       "excerpt": "At CVPR, NVIDIA is unveiling new physical AI agent skills that help researchers and developers speed the development of autonomous vehicles, robots and vision AI systems. The core challenge in physica",
-      "type": "article"
-    },
-    {
-      "title": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
-      "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
-      "source": "Nvidia",
-      "date": "2026-06-02",
-      "excerpt": "Accelerated computing has revolutionized industrial engineering, compressing simulation times from weeks to hours. Today’s remaining challenges sit in the end-to-end workflow surrounding the simulatio",
       "type": "article"
     },
     {

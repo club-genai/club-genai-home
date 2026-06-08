@@ -1,20 +1,44 @@
 {
-  "updated_at": "2026-06-07",
+  "updated_at": "2026-06-08",
   "items": [
+    {
+      "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
+      "url": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
+      "source": "Nvidia",
+      "date": "2026-06-08",
+      "excerpt": "A year ago at London Tech Week, NVIDIA founder and CEO Jensen Huang and U.K. Prime Minister Keir Starmer made a declaration: the U.K. would be an AI maker, not an AI taker. At this year’s event, NVIDI",
+      "type": "article"
+    },
+    {
+      "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+      "source": "Nvidia",
+      "date": "2026-06-08",
+      "excerpt": "NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The A",
+      "type": "article"
+    },
+    {
+      "title": "Amazing Digital Dentures (a failed project)",
+      "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "source": "Hugging Face",
+      "date": "2026-06-07",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
+      "source": "Nvidia",
+      "date": "2026-06-07",
+      "excerpt": "NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerb",
+      "type": "article"
+    },
     {
       "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
       "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
       "source": "Nvidia",
       "date": "2026-06-07",
       "excerpt": "At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the heels of this announcement, NVIDIA founder and CEO Je",
-      "type": "article"
-    },
-    {
-      "title": "Five labs, five minds: building a multi-model finance drama on small models",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-      "source": "Hugging Face",
-      "date": "2026-06-06",
-      "excerpt": "",
       "type": "article"
     },
     {
@@ -82,14 +106,6 @@
       "type": "article"
     },
     {
-      "title": "Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/",
-      "source": "Nvidia",
-      "date": "2026-06-04",
-      "excerpt": "June’s forecast with GeForce NOW: 100% chance of gaming. GeForce NOW is lining up new adventures for the month, from big-name blockbusters to quirky indies ready for the spotlight. Members can dive in",
-      "type": "article"
-    },
-    {
       "title": "Introducing new capabilities to GPT-Rosalind",
       "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
       "source": "OpenAI",
@@ -119,22 +135,6 @@
       "source": "Google AI",
       "date": "2026-06-03",
       "excerpt": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
-      "type": "article"
-    },
-    {
-      "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
-      "url": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
-      "source": "Nvidia",
-      "date": "2026-06-03",
-      "excerpt": "What makes a robot gripper useful isn’t that it can pick up one object — it’s that it can pick up the next one, and the one after that, with a tool it’s never held before. What makes an autonomous veh",
-      "type": "article"
-    },
-    {
-      "title": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
-      "url": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/",
-      "source": "Nvidia",
-      "date": "2026-06-03",
-      "excerpt": "At CVPR, NVIDIA is unveiling new physical AI agent skills that help researchers and developers speed the development of autonomous vehicles, robots and vision AI systems. The core challenge in physica",
       "type": "article"
     },
     {

@@ -1,28 +1,68 @@
 {
-  "updated_at": "2026-06-10",
+  "updated_at": "2026-06-11",
   "items": [
     {
-      "title": "How engineers at Nextdoor use Codex to build without limits",
-      "url": "https://openai.com/index/nextdoor",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "source": "OpenAI",
-      "date": "2026-06-09",
-      "excerpt": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "date": "2026-06-11",
+      "excerpt": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "type": "article"
     },
     {
-      "title": "What Codex unlocks for Notion",
-      "url": "https://openai.com/index/notion",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "source": "OpenAI",
-      "date": "2026-06-09",
-      "excerpt": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "date": "2026-06-11",
+      "excerpt": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "type": "article"
     },
     {
-      "title": "Industrial policy for the Intelligence Age",
-      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
       "source": "OpenAI",
-      "date": "2026-06-09",
-      "excerpt": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "date": "2026-06-10",
+      "excerpt": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "type": "article"
+    },
+    {
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "source": "OpenAI",
+      "date": "2026-06-10",
+      "excerpt": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+      "type": "article"
+    },
+    {
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "url": "https://openai.com/index/lseg",
+      "source": "OpenAI",
+      "date": "2026-06-10",
+      "excerpt": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "type": "article"
+    },
+    {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "source": "Google",
+      "date": "2026-06-10",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
+      "url": "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/",
+      "source": "Nvidia",
+      "date": "2026-06-10",
+      "excerpt": "A car pulls up to the curb. The app says, “Your ride is here.” No one’s in the driver’s seat. For people who live in one of the dozens of cities now hosting robotaxi services, this is already a realit",
+      "type": "article"
+    },
+    {
+      "title": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/",
+      "source": "Nvidia",
+      "date": "2026-06-10",
+      "excerpt": "Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation. NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce R",
       "type": "article"
     },
     {
@@ -90,22 +130,6 @@
       "type": "article"
     },
     {
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1",
-      "source": "OpenAI",
-      "date": "2026-06-08",
-      "excerpt": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-      "type": "article"
-    },
-    {
-      "title": "Built to benefit everyone: our plan",
-      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-      "source": "OpenAI",
-      "date": "2026-06-08",
-      "excerpt": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
-      "type": "article"
-    },
-    {
       "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
       "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
       "source": "Google",
@@ -119,30 +143,6 @@
       "source": "Hugging Face",
       "date": "2026-06-08",
       "excerpt": "",
-      "type": "article"
-    },
-    {
-      "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
-      "url": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
-      "source": "Nvidia",
-      "date": "2026-06-08",
-      "excerpt": "A year ago at London Tech Week, NVIDIA founder and CEO Jensen Huang and U.K. Prime Minister Keir Starmer made a declaration: the U.K. would be an AI maker, not an AI taker. At this year’s event, NVIDI",
-      "type": "article"
-    },
-    {
-      "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
-      "source": "Nvidia",
-      "date": "2026-06-08",
-      "excerpt": "NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The A",
-      "type": "article"
-    },
-    {
-      "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
-      "source": "Nvidia",
-      "date": "2026-06-07",
-      "excerpt": "NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerb",
       "type": "article"
     }
   ]

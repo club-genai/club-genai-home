@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-14",
+  "updated_at": "2026-06-15",
   "items": [
+    {
+      "title": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "source": "OpenAI",
+      "date": "2026-06-14",
+      "excerpt": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "type": "article"
+    },
     {
       "title": "New OpenAI Academy courses for the next era of work",
       "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
@@ -47,14 +55,6 @@
       "source": "OpenAI",
       "date": "2026-06-11",
       "excerpt": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "type": "article"
-    },
-    {
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "source": "OpenAI",
-      "date": "2026-06-11",
-      "excerpt": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "type": "article"
     },
     {
@@ -138,8 +138,8 @@
       "type": "article"
     },
     {
-      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
-      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
       "source": "Hugging Face",
       "date": "2026-06-09",
       "excerpt": "",

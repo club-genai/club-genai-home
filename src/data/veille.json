@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-06-16",
+  "updated_at": "2026-06-17",
   "items": [
+    {
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "source": "Hugging Face",
+      "date": "2026-06-17",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "source": "OpenAI",
+      "date": "2026-06-16",
+      "excerpt": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "type": "article"
+    },
+    {
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "source": "Google",
+      "date": "2026-06-16",
+      "excerpt": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "type": "article"
+    },
+    {
+      "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+      "url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
+      "source": "Nvidia",
+      "date": "2026-06-16",
+      "excerpt": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices. &#160;",
+      "type": "article"
+    },
+    {
+      "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
+      "url": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/",
+      "source": "Nvidia",
+      "date": "2026-06-16",
+      "excerpt": "AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas. The company makes the lasers, optical co",
+      "type": "article"
+    },
+    {
+      "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+      "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
+      "source": "Nvidia",
+      "date": "2026-06-16",
+      "excerpt": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, Ju",
+      "type": "article"
+    },
+    {
+      "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
+      "url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
+      "source": "Nvidia",
+      "date": "2026-06-16",
+      "excerpt": "Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build a",
+      "type": "article"
+    },
     {
       "title": "We’re strengthening our presence in Alabama through new investments and community support.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
@@ -34,6 +90,14 @@
       "type": "article"
     },
     {
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "source": "Hugging Face",
+      "date": "2026-06-12",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
       "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
       "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
       "source": "Nvidia",
@@ -42,19 +106,19 @@
       "type": "article"
     },
     {
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "source": "OpenAI",
       "date": "2026-06-11",
-      "excerpt": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "excerpt": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "type": "article"
     },
     {
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "source": "OpenAI",
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "source": "Hugging Face",
       "date": "2026-06-11",
-      "excerpt": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "excerpt": "",
       "type": "article"
     },
     {
@@ -63,14 +127,6 @@
       "source": "Google AI",
       "date": "2026-06-11",
       "excerpt": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-      "type": "article"
-    },
-    {
-      "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/",
-      "source": "Nvidia",
-      "date": "2026-06-11",
-      "excerpt": "The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far ",
       "type": "article"
     },
     {
@@ -87,62 +143,6 @@
       "source": "Google",
       "date": "2026-06-10",
       "excerpt": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
-      "type": "article"
-    },
-    {
-      "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
-      "url": "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/",
-      "source": "Nvidia",
-      "date": "2026-06-10",
-      "excerpt": "A car pulls up to the curb. The app says, “Your ride is here.” No one’s in the driver’s seat. For people who live in one of the dozens of cities now hosting robotaxi services, this is already a realit",
-      "type": "article"
-    },
-    {
-      "title": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
-      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/",
-      "source": "Nvidia",
-      "date": "2026-06-10",
-      "excerpt": "Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation. NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce R",
-      "type": "article"
-    },
-    {
-      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-      "source": "Google",
-      "date": "2026-06-09",
-      "excerpt": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
-      "type": "article"
-    },
-    {
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-      "source": "Google",
-      "date": "2026-06-09",
-      "excerpt": "",
-      "type": "article"
-    },
-    {
-      "title": "Powering the future of robotics in Europe",
-      "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-      "source": "Google",
-      "date": "2026-06-09",
-      "excerpt": "",
-      "type": "article"
-    },
-    {
-      "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
-      "url": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
-      "source": "Nvidia",
-      "date": "2026-06-09",
-      "excerpt": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple",
-      "type": "article"
-    },
-    {
-      "title": "The latest AI news we announced in May 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-      "source": "Google AI",
-      "date": "2026-06-05",
-      "excerpt": "Here are Google’s latest AI updates from May 2026",
       "type": "article"
     }
   ]

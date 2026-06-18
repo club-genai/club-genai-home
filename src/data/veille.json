@@ -1,12 +1,68 @@
 {
-  "updated_at": "2026-06-17",
+  "updated_at": "2026-06-18",
   "items": [
+    {
+      "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
+      "url": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
+      "source": "Nvidia",
+      "date": "2026-06-18",
+      "excerpt": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that ",
+      "type": "article"
+    },
+    {
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "source": "OpenAI",
+      "date": "2026-06-17",
+      "excerpt": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "type": "article"
+    },
+    {
+      "title": "Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "source": "OpenAI",
+      "date": "2026-06-17",
+      "excerpt": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "type": "article"
+    },
+    {
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "source": "Hugging Face",
+      "date": "2026-06-17",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "source": "Hugging Face",
+      "date": "2026-06-17",
+      "excerpt": "",
+      "type": "article"
+    },
     {
       "title": "GLM-5.2: Built for Long-Horizon Tasks",
       "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
       "source": "Hugging Face",
       "date": "2026-06-17",
       "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "Agentic Resource Discovery: Let agents search",
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "source": "Hugging Face",
+      "date": "2026-06-17",
+      "excerpt": "",
+      "type": "article"
+    },
+    {
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "source": "Google AI",
+      "date": "2026-06-17",
+      "excerpt": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
       "type": "article"
     },
     {
@@ -82,67 +138,11 @@
       "type": "article"
     },
     {
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "url": "https://openai.com/index/preply",
-      "source": "OpenAI",
-      "date": "2026-06-12",
-      "excerpt": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-      "type": "article"
-    },
-    {
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "source": "Hugging Face",
-      "date": "2026-06-12",
-      "excerpt": "",
-      "type": "article"
-    },
-    {
-      "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
-      "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
-      "source": "Nvidia",
-      "date": "2026-06-12",
-      "excerpt": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first ro",
-      "type": "article"
-    },
-    {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "source": "OpenAI",
-      "date": "2026-06-11",
-      "excerpt": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "type": "article"
-    },
-    {
       "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
       "url": "https://huggingface.co/blog/torch-mlp-fusion",
       "source": "Hugging Face",
       "date": "2026-06-11",
       "excerpt": "",
-      "type": "article"
-    },
-    {
-      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-      "source": "Google AI",
-      "date": "2026-06-11",
-      "excerpt": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-      "type": "article"
-    },
-    {
-      "title": "DiffusionGemma: 4x faster text generation",
-      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-      "source": "Google",
-      "date": "2026-06-10",
-      "excerpt": "",
-      "type": "article"
-    },
-    {
-      "title": "Investing in multi-agent AI safety research",
-      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-      "source": "Google",
-      "date": "2026-06-10",
-      "excerpt": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
       "type": "article"
     }
   ]

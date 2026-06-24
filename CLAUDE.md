@@ -1,6 +1,6 @@
 # Club GenAI Home — Guide opérationnel
 
-Site vitrine statique pour le Club GenAI Bordeaux, construit avec Astro 4 et déployé sur GitHub Pages. Les données (meetup, projets, veille) sont stockées dans des fichiers JSON dans `src/data/`, mis à jour automatiquement chaque lundi par GitHub Actions et rendus au moment du build.
+Site vitrine statique pour le Club GenAI Bordeaux, construit avec Astro 4 et déployé sur GitHub Pages. Les données (meetup, projets, veille) sont stockées dans des fichiers JSON dans `src/data/` ; les projets et la veille sont récupérés automatiquement à chaque déploiement par `deploy.yml` puis rendus au moment du build.
 
 ## Architecture
 
@@ -38,13 +38,9 @@ Un push sur `main` déclenche le workflow `deploy.yml` qui rebuild et déploie l
 
 Le commit déclenche automatiquement `deploy.yml` → site mis à jour en ~2 min.
 
-## Déclencher un refresh des données manuellement
+## Déclencher un refresh des données
 
-```bash
-gh workflow run update-data.yml
-```
-
-Le workflow est idempotent : s'il a déjà tourné aujourd'hui (même date UTC), il s'arrête sans rien faire. Pour forcer un refresh le même jour, édite temporairement `src/data/veille.json` en changeant `updated_at` à une date passée avant de relancer.
+Les projets et la veille sont récupérés à chaque exécution de `deploy.yml` (fetch avant build). Pour forcer un refresh, déclenche simplement un déploiement (voir ci-dessous) — il n'y a plus de workflow planifié dédié.
 
 ## Déclencher un rebuild manuel
 
@@ -67,17 +63,6 @@ GITHUB_TOKEN=<token> node .github/scripts/fetch-veille.js
 ```
 
 Les scripts écrivent directement dans `src/data/` via un pattern tmp+rename (atomique). Ils ne font rien si le résultat est vide (protection contre le rate-limiting).
-
-## Cron et heure française (DST)
-
-Le workflow `update-data.yml` déclare deux crons :
-
-```yaml
-- cron: '0 6 * * 1'  # 7h00 CET  (hiver, UTC+1)
-- cron: '0 5 * * 1'  # 7h00 CEST (été,   UTC+2)
-```
-
-Cela couvre 7h00 heure française toute l'année sans modifier le workflow à chaque changement d'heure. Un check d'idempotence empêche un double-run lors des semaines de transition (dernier dimanche de mars et dernier dimanche d'octobre).
 
 ## Système de thème (dark mode)
 

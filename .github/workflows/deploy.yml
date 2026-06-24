@@ -29,7 +29,7 @@ jobs:
         run: npm ci
 
       # Fetch fresh data before building so every deploy includes up-to-date
-      # projects and veille, regardless of when the Monday cron last ran.
+      # projects and veille. This is the only place data is refreshed.
       - name: Fetch GitHub projects
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
